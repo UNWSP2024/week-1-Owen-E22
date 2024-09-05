@@ -3,4 +3,4 @@ def proverbs_22_29():
     print('proverbs 22:29')
     
 
-proverbs_22_29()
+proverbs 22:29()
